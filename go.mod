@@ -1,3 +1,3 @@
-module advent-of-code-2019
+module adventofcode2019
 
 go 1.17
